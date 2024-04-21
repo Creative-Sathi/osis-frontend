@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.699d6b7f.css",
-    "main.js": "/static/js/main.dbff9e34.js",
+    "main.css": "/static/css/main.b26cd1ca.css",
+    "main.js": "/static/js/main.b49ed31e.js",
     "static/js/787.fc3d1b10.chunk.js": "/static/js/787.fc3d1b10.chunk.js",
     "static/media/car.jpg": "/static/media/car.8506164a2e3c97e81504.jpg",
     "static/media/Frame 1000003234.jpg": "/static/media/Frame 1000003234.1b90eb0a396748a91478.jpg",
@@ -39,20 +39,20 @@
     "static/media/people-outline.svg": "/static/media/people-outline.a2109ae71c3a97ab925af25a55a30076.svg",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "static/media/edit.svg": "/static/media/edit.ab4e04fdd6ffd95a604e345a55cb51ab.svg",
+    "index.html": "/index.html",
     "static/media/help-circle.svg": "/static/media/help-circle.8ff90f46b9a7d89d9408d1657c4fff5d.svg",
     "static/media/user.svg": "/static/media/user.eb3b451c43ee39b636c28d033e2fd89f.svg",
     "static/media/dashboard.svg": "/static/media/dashboard.c30332d56b6a7a4ec76f066ebf21f78a.svg",
     "static/media/notifications-none.svg": "/static/media/notifications-none.4c24a20b4475cf90790c24ed3af6c38a.svg",
     "static/media/arrow-left-circle.svg": "/static/media/arrow-left-circle.862b99d1bba8a742e3c6f9b7afa85fb6.svg",
-    "index.html": "/index.html",
     "static/media/exit.svg": "/static/media/exit.dcdfa2bdc4e38f182ee9c67171b078b3.svg",
     "static/media/chevron-down.svg": "/static/media/chevron-down.a5e59c814b9830a0bda7f26000ca2388.svg",
-    "main.699d6b7f.css.map": "/static/css/main.699d6b7f.css.map",
-    "main.dbff9e34.js.map": "/static/js/main.dbff9e34.js.map",
+    "main.b26cd1ca.css.map": "/static/css/main.b26cd1ca.css.map",
+    "main.b49ed31e.js.map": "/static/js/main.b49ed31e.js.map",
     "787.fc3d1b10.chunk.js.map": "/static/js/787.fc3d1b10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.699d6b7f.css",
-    "static/js/main.dbff9e34.js"
+    "static/css/main.b26cd1ca.css",
+    "static/js/main.b49ed31e.js"
   ]
 }
