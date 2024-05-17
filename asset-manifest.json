@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c96f8a1d.css",
-    "main.js": "/static/js/main.910d02c3.js",
+    "main.js": "/static/js/main.3f37b71d.js",
     "static/js/787.fc3d1b10.chunk.js": "/static/js/787.fc3d1b10.chunk.js",
     "static/media/car.jpg": "/static/media/car.8506164a2e3c97e81504.jpg",
     "static/media/partimages.zip": "/static/media/partimages.52877e426d4d426c48c4.zip",
@@ -52,11 +52,11 @@
     "static/media/exit.svg": "/static/media/exit.dcdfa2bdc4e38f182ee9c67171b078b3.svg",
     "static/media/chevron-down.svg": "/static/media/chevron-down.a5e59c814b9830a0bda7f26000ca2388.svg",
     "main.c96f8a1d.css.map": "/static/css/main.c96f8a1d.css.map",
-    "main.910d02c3.js.map": "/static/js/main.910d02c3.js.map",
+    "main.3f37b71d.js.map": "/static/js/main.3f37b71d.js.map",
     "787.fc3d1b10.chunk.js.map": "/static/js/787.fc3d1b10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c96f8a1d.css",
-    "static/js/main.910d02c3.js"
+    "static/js/main.3f37b71d.js"
   ]
 }
